@@ -5,6 +5,6 @@
 **Latest:**<br />
 [microtemplate](https://github.com/t3brightside/microtemplate) – 3.1.0 to integrate new features of the containeritems<br />
 [containeritems](https://github.com/t3brightside/containeritems) – 2.0.0 new features and improvements<br />
-[youtubevideo](https://github.com/t3brightside/youtubevideo) – 2.0.0 is available now
+[paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) – 1.3.2 bug fix release thanks to @whmyr
 
 **Cheers to Open Source!**
