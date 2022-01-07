@@ -4,7 +4,7 @@
 
 **Latest:**<br />
 [microtemplate](https://github.com/t3brightside/microtemplate) – 3.1.0 to integrate the new features of the ext:containeritems<br />
-[containeritems](https://github.com/t3brightside/containeritems) – 2.0.0 plenty of new features and improvements<br />
+[containeritems](https://github.com/t3brightside/containeritems) – 2.0.0 new features and improvements<br />
 [youtubevideo](https://github.com/t3brightside/youtubevideo) – 2.0.0 is available now
 
 **Cheers to Open Source!**
