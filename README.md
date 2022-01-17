@@ -4,7 +4,7 @@
 
 **Latest:**<br />
 [containeritems](https://github.com/t3brightside/containeritems) – 2.0.1 bugfix release<br />
-[microtemplate](https://github.com/t3brightside/microtemplate) – 3.1.0 to integrate new features of the containeritems<br />
+[microtemplate](https://github.com/t3brightside/microtemplate) – 3.2.0 going towards GDPR friendly<br />
 [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) – 1.3.2 bug fix release thanks to [@whmyr](https://github.com/whmyr)
 
 **Cheers to Open Source!**
