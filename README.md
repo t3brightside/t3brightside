@@ -1,6 +1,6 @@
 ### Hey!
 
-**Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests visit: [t3brightside.com](https://t3brightside.com)
+**Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Latest:**<br />
 - [microtemplate](https://github.com/t3brightside/microtemplate) – 3.3.3 release<br />
