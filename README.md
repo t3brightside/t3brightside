@@ -4,6 +4,6 @@
 
 **Latest:**<br />
 - [microtemplate](https://github.com/t3brightside/microtemplate) – 3.3.3 release<br />
-- [containeritems](https://github.com/t3brightside/containeritems) – 3.0.0 release<br />
+- [containeritems](https://github.com/t3brightside/containeritems) – 3.1.0 release<br />
 
 **Cheers to Open Source!**
