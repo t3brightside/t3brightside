@@ -3,7 +3,7 @@
 **Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Latest:**<br />
-- [gallerycontent](https://github.com/t3brightside/gallerycontent) – 1.5.0 Integrated SimpleLightbox feature<br />
+- [gallerycontent](https://github.com/t3brightside/gallerycontent) – 1.5.0 Integrates SimpleLightbox<br />
 - [personnel](https://github.com/t3brightside/personnel) – 3.4.0 Title tag selection in content element<br />
 - [pagelist](https://github.com/t3brightside/pagelist) – 3.5.2 Title tag selection in content element<br />
 - [youtubevideo](https://github.com/t3brightside/youtubevideo) – 2.2.2 little SEO improvement<br />
