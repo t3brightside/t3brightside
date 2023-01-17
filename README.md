@@ -7,6 +7,6 @@
 - [gallerycontent](https://github.com/t3brightside/gallerycontent) – 1.5.1 TYPO3 12.1 friendly<br />
 - [personnel](https://github.com/t3brightside/personnel) – 3.4.1 TYPO3 12.1 friendly<br />
 - [pagelist](https://github.com/t3brightside/pagelist) – 3.5.4 TYPO3 12.1 friendly<br />
-- [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) – 1.4.2 TYPO3 12.1 support<br />
+- [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) – 1.4.2 TYPO3 12.1 friendly<br />
 
 **Cheers to Open Source!**
