@@ -3,6 +3,7 @@
 **Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Latest:**<br />
+- [personnel](https://github.com/t3brightside/personnel) - v1.8.3 with minor update to improve compatibility with ext:news
 - [gallerycontent](https://github.com/t3brightside/gallerycontent) – v1.9.0 updated lightbox script and force color theme option added.
 - [microtemplate](https://github.com/t3brightside/microtemplate) – Now it comes with optional first sublevel menu! See the [v4.1 demo](https://microtemplate.t3brightside.com).
 - [vimeovideo](https://github.com/t3brightside/vimeovideo) - v1.0.0 comes fully refacvtored, brings cover images and GDPR friendly loading
