@@ -4,7 +4,7 @@
 
 **Latest:**<br />
 - [microtemplate](https://github.com/t3brightside/microtemplate) – v4.2.0 add iconpack support to menus [See the demo](https://microtemplate.t3brightside.com).
-- [containeritems](https://github.com/t3brightside/containeritems) - v4.4.0 add iconpack support to tabs and accordions
+- [containeritems](https://github.com/t3brightside/containeritems) - v4.5.0 accessibility improvements on popups, tabs and accordions, please see the change log before upgrading!
 - [personnel](https://github.com/t3brightside/personnel) - v3.9.0 !BREAKING! drop ext:news author feature
 - [vimeovideo](https://github.com/t3brightside/vimeovideo) - v1.1.0 adds link to Vimeo privacy policy and dependency on [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) 
 - [youtubevideo](https://github.com/t3brightside/youtubevideo) - v2.5.0 adds link to YouTube privacy policy and uses local storage instead of cookie to store user agreement
