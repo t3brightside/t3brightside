@@ -3,7 +3,7 @@
 **Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Latest:**<br />
-- [microstart](https://github.com/t3brightside/microstart) – v1.5.0 updated install instructions and database
+- [microstart](https://github.com/t3brightside/microstart) – v1.5.1 updated install instructions and database
 - [gallerycontent](https://github.com/t3brightside/gallerycontent) – v1.9.1 fix a TS condition error and improve embed asset loading
 - [microtemplate](https://github.com/t3brightside/microtemplate) – v4.3.1 add iconpack support to menus [See the demo](https://microtemplate.t3brightside.com).
 - [containeritems](https://github.com/t3brightside/containeritems) - v4.5.3 accessibility improvements on popups, tabs and accordions, please see the change log before upgrading!
