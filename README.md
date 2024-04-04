@@ -4,7 +4,7 @@
 
 **Latest:**<br />
 - [personnel](https://github.com/t3brightside/personnel) - v4.0.0 v13 ready, drops v11 support and brings image cropping and improved BE previews
-- [gallerycontent](https://github.com/t3brightside/gallerycontent) – v2.0.0 v13 compatibility, dropping v11, CSS and JS files fully TS configurable
+- [gallerycontent](https://github.com/t3brightside/gallerycontent) – v2.1.2 with upgraded BE preview
 - [youtubevideo](https://github.com/t3brightside/youtubevideo) - v3.0.0 brings TYPO3 v13 compatibility and drops v11
 - [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) - v1.6.0 adds TYPO3 v13 compatibility
 - [microstart](https://github.com/t3brightside/microstart) – v1.5.1 updated install instructions and database
