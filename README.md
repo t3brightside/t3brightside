@@ -9,7 +9,6 @@
 - [gallerycontent](https://github.com/t3brightside/gallerycontent) – v2.1.2 with upgraded BE preview
 - [youtubevideo](https://github.com/t3brightside/youtubevideo) - v3.0.0 brings TYPO3 v13 compatibility and drops v11
 - [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) - v1.6.0 adds TYPO3 v13 compatibility
-- [microstart](https://github.com/t3brightside/microstart) – v1.5.1 updated install instructions and database
 - [microtemplate](https://github.com/t3brightside/microtemplate) – v4.3.1 add iconpack support to menus [See the demo](https://microtemplate.t3brightside.com).
 - [containeritems](https://github.com/t3brightside/containeritems) - v4.5.3 accessibility improvements on popups, tabs and accordions, please see the change log before upgrading!
 
