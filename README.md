@@ -4,7 +4,7 @@
 
 **Latest:**<br />
 - [personnel](https://github.com/t3brightside/personnel) - v4.1.0 adding ext:addresses template to use with ext:addressespersonnel
-- [addresses](https://github.com/t3brightside/formwebhooksend) - v1.1.0 address list extension
+- [addresses](https://github.com/t3brightside/addresses) - v1.1.0 address list extension
 - [addressespersonnel](https://github.com/t3brightside/addressespersonnel) - v1.0.0 bidirectional connection between ext:addresses and ext:personnel
 - [formwebhooksend](https://github.com/t3brightside/formwebhooksend) - v1.0.4 brand new little extension for sending form data using webhook
 - [pagelist](https://github.com/t3brightside/pagelist) - v4.0.0 v13 ready, drops v11 support and brings inline content editing, image cropping, and improved BE previews
