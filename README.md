@@ -4,7 +4,7 @@
 
 **Latest:**<br />
 
-- [microtemplate](https://github.com/t3brightside/microtemplate) - v5.0.0 finally ready for TYPO3 v13
+- [microtemplate](https://github.com/t3brightside/microtemplate) - v5.0.1 finally ready for TYPO3 v13
 - [formwebhooksend](https://github.com/t3brightside/formwebhooksend) - v1.2.0 adding a feature to send form field as json data
 - [personnel](https://github.com/t3brightside/personnel) - v4.2.1 adding bidirectional connection to pages
 - [addresses](https://github.com/t3brightside/addresses) - v1.0.3 address list extension
