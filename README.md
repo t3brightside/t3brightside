@@ -3,7 +3,7 @@
 **Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Latest:**<br />
-
+- [form-pdf](https://github.com/t3brightside/form_pdf) - v2.0.0 finally ready for TYPO3 v12, big thanks to [@aschmutt](https://github.com/aschmutt)
 - [microtemplate](https://github.com/t3brightside/microtemplate) - v5.0.1 finally ready for TYPO3 v13, and there's [microstart](https://github.com/t3brightside/microstart) package ready to go
 - [formwebhooksend](https://github.com/t3brightside/formwebhooksend) - v1.2.0 adding a feature to send form field as json data
 - [personnel](https://github.com/t3brightside/personnel) - v4.2.1 adding bidirectional connection to pages
