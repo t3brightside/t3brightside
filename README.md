@@ -13,3 +13,5 @@
 - [youtubevideo](https://github.com/t3brightside/youtubevideo) - v3.0.0 brings TYPO3 v13 compatibility and drops v11
 
 **Cheers to Open Source!**
+<br /><br />
+Besides there are couple personal passion projects as well: [WindTracker.online](https://windtracker.online) & [WindsurfOnEarth.com](https://windsurfonearth.com) 
