@@ -3,6 +3,9 @@
 **Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Latest:**<br />
+- [youtubevideo](https://github.com/t3brightside/youtubevideo) - v3.1.2 let's go TYPO3 v14
+- [embedassets](https://github.com/t3brightside/embedassets)
+- [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors)
 - [pagelist](https://github.com/t3brightside/pagelist) - v4.2.2 bugfix release
 - [addresses](https://github.com/t3brightside/addresses) - v1.1.1 bugfix release
 - [form-pdf](https://github.com/t3brightside/form_pdf) - v2.1.0 ready for TYPO3 v13
@@ -10,7 +13,6 @@
 - [formwebhooksend](https://github.com/t3brightside/formwebhooksend) - v1.2.0 adding a feature to send form field as json data
 - [personnel](https://github.com/t3brightside/personnel) - v4.2.1 adding bidirectional connection to pages
 - [addressespersonnel](https://github.com/t3brightside/addressespersonnel) - v1.0.0 bidirectional connection between ext:addresses and ext:personnel
-- [youtubevideo](https://github.com/t3brightside/youtubevideo) - v3.0.0 brings TYPO3 v13 compatibility and drops v11
 
 **Cheers to Open Source!**
 <br /><br />
