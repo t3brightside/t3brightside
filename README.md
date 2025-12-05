@@ -3,6 +3,8 @@
 **Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Ready for TYPO3 v14**<br />
+- [pagelist](https://github.com/t3brightside/pagelist) - v5.0.0 compatibility release
+- [personnel](https://github.com/t3brightside/personnel) - v5.0.0 compatibility release
 - [youtubevideo](https://github.com/t3brightside/youtubevideo) - v3.1.2 compatibility release
 - [embedassets](https://github.com/t3brightside/embedassets) - v1.4.0 compatibility release
 - [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) - v1.7.1 compatibility release
@@ -10,12 +12,10 @@
 
 **For TYPO3 v13**<br />
 
-- [pagelist](https://github.com/t3brightside/pagelist) - v4.2.2 bugfix release
 - [addresses](https://github.com/t3brightside/addresses) - v1.1.1 bugfix release
 - [form-pdf](https://github.com/t3brightside/form_pdf) - v2.1.0 ready for TYPO3 v13
 - [microtemplate](https://github.com/t3brightside/microtemplate) - v5.0.1 finally ready for TYPO3 v13, and there's [microstart](https://github.com/t3brightside/microstart) package ready to go
 - [formwebhooksend](https://github.com/t3brightside/formwebhooksend) - v1.2.0 adding a feature to send form field as json data
-- [personnel](https://github.com/t3brightside/personnel) - v4.2.1 adding bidirectional connection to pages
 - [addressespersonnel](https://github.com/t3brightside/addressespersonnel) - v1.0.0 bidirectional connection between ext:addresses and ext:personnel
 
 **Cheers to Open Source!**
