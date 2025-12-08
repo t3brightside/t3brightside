@@ -19,4 +19,4 @@
 
 **Cheers to Open Source!**
 <br /><br />
-Besides there are couple personal passion projects as well: [WindTracker.online](https://windtracker.online) & [WindsurfOnEarth.com](https://windsurfonearth.com) 
+Besides there are couple personal passion projects as well: [WindTracker.online](https://windtracker.online) & [Ilmaime.ee](https://ilmaime.ee) 
