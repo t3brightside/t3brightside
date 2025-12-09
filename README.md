@@ -3,9 +3,9 @@
 **Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Ready for TYPO3 v14**<br />
-- [addresses](https://github.com/t3brightside/addresses) - v2.0.0 compatibility release
-- [pagelist](https://github.com/t3brightside/pagelist) - v5.0.0 compatibility release
-- [personnel](https://github.com/t3brightside/personnel) - v5.0.0 compatibility release
+- [addresses](https://github.com/t3brightside/addresses) - v2.1.0 compatibility release
+- [pagelist](https://github.com/t3brightside/pagelist) - v5.1.1 feature & bugfix release
+- [personnel](https://github.com/t3brightside/personnel) - v5.1.0 feature & bugfix release
 - [youtubevideo](https://github.com/t3brightside/youtubevideo) - v3.1.2 compatibility release
 - [embedassets](https://github.com/t3brightside/embedassets) - v1.4.0 compatibility release
 - [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) - v1.7.1 compatibility release
