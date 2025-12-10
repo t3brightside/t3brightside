@@ -3,6 +3,7 @@
 **Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Ready for TYPO3 v14**<br />
+- [advancedtitle](https://github.com/t3brightside/advancedtitle) - v1.4.0 compatibility release
 - [addresses](https://github.com/t3brightside/addresses) - v2.1.0 compatibility release
 - [pagelist](https://github.com/t3brightside/pagelist) - v5.1.1 feature & bugfix release
 - [personnel](https://github.com/t3brightside/personnel) - v5.1.0 feature & bugfix release
