@@ -1,6 +1,7 @@
 ### Hey!
+**Lately have been working on a Hi-Fi media server called Miliza.<br />Find out more on [Miliza.eu](https://miliza.eu).**
 
-**Here, I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
+**And I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Ready for TYPO3 v14**<br />
 - [gallerycontent](https://github.com/t3brightside/gallerycontent) - v3.0.0 compatibility release and improved back end
