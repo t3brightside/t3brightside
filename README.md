@@ -1,5 +1,5 @@
 ### Hey!
-**Lately have been working on a Hi-Fi media server called Miliza.<br />Find out more on [Miliza.eu](https://miliza.eu).**
+**Lately have been working on a Linux Hi-Fi media server called Miliza.<br />It can do NAS, Tidal, AirPlay, Bluetooth etc. Find out more on [Miliza.eu](https://miliza.eu).**
 
 **And I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
