@@ -3,6 +3,10 @@
 
 **And I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
+Despite all human progress, beer remains tragically unfree!<br>
+Consider supporting the effort.<br>
+[Direct](https://revolut.me/tanelpld) or [GitHub](https://github.com/sponsors/t3brightside)
+
 **Ready for TYPO3 v14**<br />
 - [formcsv](https://github.com/t3brightside/formcsv) - in dev, new extension to add CSV finisher to forms
 - [form_pdf](https://github.com/t3brightside/form_pdf) - v3.0.0-beta-2 massive refactoring for TYPO3 v14
