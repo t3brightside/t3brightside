@@ -1,5 +1,4 @@
 ### Hey!
-**Lately have been working on a Linux Hi-Fi media server called Miliza.<br />It can do NAS, Tidal, AirPlay, Bluetooth etc. Find out more on [Miliza.eu](https://miliza.eu).**
 
 And I'm working on some useful extensions for TYPO3 CMS<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
@@ -21,6 +20,8 @@ Consider supporting the effort [directly](https://revolut.me/tanelpld) or via [G
 - [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) - v1.7.1 compatibility release
 <br />
 
-**Cheers to Open Source!**
+**Other type of projects**
 <br /><br />
-Besides there are couple personal passion projects as well: [WindTracker.online](https://windtracker.online) & [Ilmaime.ee](https://ilmaime.ee) 
+**Linux Hi-Fi media server called Miliza.<br />It can do NAS, Tidal, AirPlay, Bluetooth etc. Find out more on [Miliza.eu](https://miliza.eu).**
+
+Besides there are couple personal wind and weather trackers: [WindTracker.online](https://windtracker.online) & [Ilmaime.ee](https://ilmaime.ee) 
