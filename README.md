@@ -2,7 +2,7 @@
 
 And I'm working on some useful extensions for TYPO3 CMS<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
-**Despite all human progress, beer remains tragically unfree!**<br>
+** 🍺 Despite all human progress, beer remains tragically unfree!**<br>
 Consider supporting the effort [directly](https://revolut.me/tanelpld) or via [GitHub](https://github.com/sponsors/t3brightside)
 
 <br>
