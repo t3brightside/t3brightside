@@ -1,9 +1,9 @@
 ### Hey!
 **Lately have been working on a Linux Hi-Fi media server called Miliza.<br />It can do NAS, Tidal, AirPlay, Bluetooth etc. Find out more on [Miliza.eu](https://miliza.eu).**
 
-**And I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
+And I'm working on some useful extensions for TYPO3 CMS<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
-Despite all human progress, beer remains tragically unfree!<br>
+*Despite all human progress, beer remains tragically unfree!*<br>
 Consider supporting the effort.<br>
 [Direct](https://revolut.me/tanelpld) or [GitHub](https://github.com/sponsors/t3brightside)
 
