@@ -4,6 +4,7 @@
 **And I'm working on some useful extensions for TYPO3 CMS**<br />To get in touch with TYPO3 service requests and maintenance please visit: [t3brightside.com](https://t3brightside.com)
 
 **Ready for TYPO3 v14**<br />
+- [form_pdf](https://github.com/t3brightside/form_pdf) - v3.0.0-beta-2 massive refactoring for TYPO3 v14
 - [microtemplate](https://github.com/t3brightside/microtemplate) - v6.0.0 ready for TYPO3 v14
 - [gallerycontent](https://github.com/t3brightside/gallerycontent) - v3.0.0 compatibility release and improved back end
 - [advancedtitle](https://github.com/t3brightside/advancedtitle) - v1.4.0 compatibility release
