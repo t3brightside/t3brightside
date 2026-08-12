@@ -16,10 +16,6 @@
 - [paginatedprocessors](https://github.com/t3brightside/paginatedprocessors) - v1.7.1 compatibility release
 <br />
 
-**For TYPO3 v13**<br />
-- [form-pdf](https://github.com/t3brightside/form_pdf) - v2.1.0 ready for TYPO3 v13
-- [formwebhooksend](https://github.com/t3brightside/formwebhooksend) - v1.2.0 adding a feature to send form field as json data
-
 **Cheers to Open Source!**
 <br /><br />
 Besides there are couple personal passion projects as well: [WindTracker.online](https://windtracker.online) & [Ilmaime.ee](https://ilmaime.ee) 
