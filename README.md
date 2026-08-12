@@ -22,6 +22,6 @@ Consider supporting the effort [directly](https://revolut.me/tanelpld) or via [G
 
 **Other type of projects**
 <br /><br />
-**Linux Hi-Fi media server called Miliza.<br />It can do NAS, Tidal, AirPlay, Bluetooth etc. Find out more on [Miliza.eu](https://miliza.eu).**
+Linux Hi-Fi media server called Miliza:  **[Miliza.eu](https://miliza.eu)**.
 
-Besides there are couple personal wind and weather trackers: [WindTracker.online](https://windtracker.online) & [Ilmaime.ee](https://ilmaime.ee) 
+Couple wind and weather trackers: [WindTracker.online](https://windtracker.online) & [Ilmaime.ee](https://ilmaime.ee) 
