@@ -8,7 +8,6 @@ Consider supporting the effort [directly](https://revolut.me/tanelpld) or via [G
 <br>
 
 **Ready for TYPO3 v14**<br />
-- [formcsv](https://github.com/t3brightside/formcsv) - in dev, new extension to add CSV finisher to forms
 - [form_pdf](https://github.com/t3brightside/form_pdf) - v3.0.0-beta-2 massive refactoring for TYPO3 v14
 - [microtemplate](https://github.com/t3brightside/microtemplate) - v6.0.0 ready for TYPO3 v14
 - [gallerycontent](https://github.com/t3brightside/gallerycontent) - v3.0.0 compatibility release and improved back end
